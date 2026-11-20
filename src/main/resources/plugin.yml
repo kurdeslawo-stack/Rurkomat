@@ -1,0 +1,7 @@
+name: Rurkomat
+version: 1.0.2
+main: pl.rurkomat.Rurkomat
+author: slawek
+api-version: '26.3'
+depend: [Essentials]
+description: Inventory menu for EssentialsX kits.
